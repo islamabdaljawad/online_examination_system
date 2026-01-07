@@ -108,19 +108,19 @@ The system supports:
 
 ### 5.1 ERD Diagram
 
-![[ERD.jpeg]]
+![[images/ERD.jpeg]]
 
 <div style="page-break-after: always;"></div>
 
 ### 5.2 Mapping Diagram
 
-![[mapping.jpeg]]
+![[images/mapping.jpeg]]
 
 <div style="page-break-after: always;"></div>
 
 ### 5.3 ERD (Database Implementation)
 
-![[ERD in Databse.jpeg]]
+![[images/ERD in Databse.jpeg]]
 
 <div style="page-break-after: always;"></div>
 
