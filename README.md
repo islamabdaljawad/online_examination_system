@@ -7,8 +7,7 @@
 ### Team Members
 - Islam Abd Aljawad Ahmed  
 - Ali Mohamed Ali  
-- Passant Gamal Kamal  
-- Passant Gamal Kamal  
+- Passant Gamal Kamal   
 - Maged Elshebeny  
 - Assem Omar Mohamedy  
 
