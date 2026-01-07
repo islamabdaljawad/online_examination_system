@@ -115,13 +115,15 @@ The system supports:
 
 ### 5.2 Mapping Diagram
 
-![[images\mapping.jpeg]]
+
+!["Mapping Diagram"](images/mapping.jpeg)
+
 
 <div style="page-break-after: always;"></div>
 
 ### 5.3 ERD (Database Implementation)
 
-![[images/ERD in Databse.jpeg]]
+!["ERD (Database Implementation)"](images/ERD in Databse.jpeg)
 
 <div style="page-break-after: always;"></div>
 
