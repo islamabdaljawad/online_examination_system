@@ -114,7 +114,7 @@ The system supports:
 
 ### 5.2 Mapping Diagram
 
-![[images/mapping.jpeg]]
+![[images\mapping.jpeg]]
 
 <div style="page-break-after: always;"></div>
 
