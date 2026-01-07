@@ -108,7 +108,8 @@ The system supports:
 
 ### 5.1 ERD Diagram
 
-![[images/ERD.jpeg]]
+
+["ERD Diagram"](images/ERD.jpeg)
 
 <div style="page-break-after: always;"></div>
 
