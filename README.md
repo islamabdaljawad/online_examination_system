@@ -123,7 +123,7 @@ The system supports:
 
 ### 5.3 ERD (Database Implementation)
 
-!["ERD (Database Implementation)"](images/ERD in Databse.jpeg)
+!["ERD (Database Implementation)"]("images/ERD in Databse.jpeg")
 
 <div style="page-break-after: always;"></div>
 
